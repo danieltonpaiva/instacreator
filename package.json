@@ -1,0 +1,16 @@
+{
+  "name": "creator",
+  "version": "1.0.0",
+  "description": "create instagram accounts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danielton",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "gerador-nome": "^0.0.5",
+    "puppeteer": "^19.3.0"
+  }
+}
